@@ -1,7 +1,4 @@
 # IPL-Data-Analysis
-Data Analysis of IPL Dataset using Python
-
-# IPL Data Analysis
 
 ## Overview
 This project analyzes IPL data to uncover insights about teams, players, and match trends.
